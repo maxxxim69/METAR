@@ -1,0 +1,13 @@
+DoWeHaveCloudData = metar_clouds_regext.search(metar_line)
+
+if DoWeHaveCloudData != None:
+	find_clouds = metar_clouds_regext.findall(metar_line)
+	metar_clouds = find_clouds[0]
+	stripped_metar_clouds = metar_clouds.lstrip()
+	len_metar_clouds = len(stripped_metar_clouds)
+	if len_metar_clouds == 4:
+	#print(stripped_metar_clouds)
+	#print(str(len_metar_clouds))
+else:
+	print("No cloud data reported")
+	exit()

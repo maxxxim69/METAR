@@ -1,0 +1,35 @@
+ALASKA             16-DEC-13                                                  
+CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
+AK ADAK NAS         PADK  ADK   70454  51 53N  176 39W    4   X     T          7 US
+AK AKHIOK           PAKH  AKK          56 56N  154 11W   14   X                8 US
+AK AMBLER           PAFM  AFM          67 06N  157 51W   88   X                7 US
+AK ANAKTUVUK PASS   PAKP  AKP          68 08N  151 44W  642   X                7 US
+AK ANCHORAGE INTL   PANC  ANC   70273  61 10N  150 01W   38   X     T  X  A    5 US
+AK ANCHORAGE/WFO    PAFC  AFC          61 10N  150 02W   48                  F 8 US
+AK ANCHORAG/NIKISKI PAHG  AHG          60 44N  151 21W   74      X             8 US
+AK ANCHORAGE/LAKE H PALH  LHD          61 11N  149 58W   22   X           A    7 US
+AK ANCHORAGE/ARTCC  PZAN  ZAN          61 10N  149 59W   22         A          8 US
+AK ANCHORAGE/MERRIL PAMR  MRI          61 13N  149 51W   41   X           A    7 US
+AK ANGOON SEAPLANE  PAGN               57 30N  134 35W    2   X                8 US
+AK ANIAK            PANI  ANI   70232  61 35N  159 32W   26   X                7 US
+AK ANNETTE ISLAND   PANT  ANN   70398  55 02N  131 34W   36   X        X  A    5 US
+AK ANVIK            PANV  ANV          62 39N  160 11W   99   X                7 US
+AK ARCTIC VILLAGE   PARC  ARC          68 07N  145 35W  636   X                7 US
+AK ATQASUK BURNELL  PATQ  ATK          70 28N  157 26W   29   X                7 US
+AK ATKA             PAAK  AKA          52 13N  174 12W   17   X                7 US
+AK BARROW           PABR  BRW   70026  71 17N  156 48W    7   X     T  X  A    5 US
+AK BARROW ARM-NSA               70027  71 19N  156 37W    7            X       8 US
+AK BARTER ISLAND    PABA  BTI   70086  70 08N  143 35W    2   X           W    7 US
+AK BETHEL           PABE  BET   70219  60 47N  161 51W   41   X     T  X  A    5 US
+AK BETHEL/88D       PABC  ABC          60 48N  161 53W   49      X             8 US
+AK BETTLES          PABT  BTT   70174  66 55N  151 31W  195   X     T     A    6 US
+AK BIG RIVER LAKES  PALV  LVR          60 49N  152 18W   12   X                7 US
+AK BIRCHWOOD        PABV  BCV          61 25N  149 31W   29   X                7 US
+AK BREVIG_MISSION   PFKT               65 20N  166 28W    9   X                7 US
+AK BUCKLAND         PABL  BVK          65 59N  161 09W    7   X                7 US
+AK CANTWELL         PATW  TTW          63 23N  148 57W  668   X                7 US
+CO DENVER (DIA)     KDEN  DEN   72565  39 51N  104 39W 1640   X     U     A    0 US
+CO AKRON            KAKO  AKO          40 10N  103 13W 1421   X     V     A    4 US
+CO ALAMOSA          KALS  ALS   72462  37 26N  105 52W 2299   X     U     A    6 US
+CO ASPEN            KASE  ASE          39 14N  106 52W 2354   X     T     A    4 US
+CO BERTHOUD PASS    K0CO  0CO          39 48N  105 46W 3807   X  X        W  F 8 US

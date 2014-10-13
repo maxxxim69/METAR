@@ -1,0 +1,5 @@
+1 1/2SM - 1\s\d\/\d\d?S?K?M
+10SM - \d\dS?K?M
+1/16SM - \sM?\d\/\d\d?S?K?M
+
+

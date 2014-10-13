@@ -1,0 +1,501 @@
+ALASKA             16-DEC-13                                                  
+CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
+AK ADAK NAS         PADK  ADK   70454  51 53N  176 39W    4   X     T          7 US
+AK AKHIOK           PAKH  AKK          56 56N  154 11W   14   X                8 US
+AK AMBLER           PAFM  AFM          67 06N  157 51W   88   X                7 US
+AK ANAKTUVUK PASS   PAKP  AKP          68 08N  151 44W  642   X                7 US
+AK ANCHORAGE INTL   PANC  ANC   70273  61 10N  150 01W   38   X     T  X  A    5 US
+AK ANCHORAGE/WFO    PAFC  AFC          61 10N  150 02W   48                  F 8 US
+AK ANCHORAG/NIKISKI PAHG  AHG          60 44N  151 21W   74      X             8 US
+AK ANCHORAGE/LAKE H PALH  LHD          61 11N  149 58W   22   X           A    7 US
+AK ANCHORAGE/ARTCC  PZAN  ZAN          61 10N  149 59W   22         A          8 US
+AK ANCHORAGE/MERRIL PAMR  MRI          61 13N  149 51W   41   X           A    7 US
+AK ANGOON SEAPLANE  PAGN               57 30N  134 35W    2   X                8 US
+AK ANIAK            PANI  ANI   70232  61 35N  159 32W   26   X                7 US
+AK ANNETTE ISLAND   PANT  ANN   70398  55 02N  131 34W   36   X        X  A    5 US
+AK ANVIK            PANV  ANV          62 39N  160 11W   99   X                7 US
+AK ARCTIC VILLAGE   PARC  ARC          68 07N  145 35W  636   X                7 US
+AK ATQASUK BURNELL  PATQ  ATK          70 28N  157 26W   29   X                7 US
+AK ATKA             PAAK  AKA          52 13N  174 12W   17   X                7 US
+AK BARROW           PABR  BRW   70026  71 17N  156 48W    7   X     T  X  A    5 US
+AK BARROW ARM-NSA               70027  71 19N  156 37W    7            X       8 US
+AK BARTER ISLAND    PABA  BTI   70086  70 08N  143 35W    2   X           W    7 US
+AK BETHEL           PABE  BET   70219  60 47N  161 51W   41   X     T  X  A    5 US
+AK BETHEL/88D       PABC  ABC          60 48N  161 53W   49      X             8 US
+AK BETTLES          PABT  BTT   70174  66 55N  151 31W  195   X     T     A    6 US
+AK BIG RIVER LAKES  PALV  LVR          60 49N  152 18W   12   X                7 US
+AK BIRCHWOOD        PABV  BCV          61 25N  149 31W   29   X                7 US
+AK BREVIG_MISSION   PFKT               65 20N  166 28W    9   X                7 US
+AK BUCKLAND         PABL  BVK          65 59N  161 09W    7   X                7 US
+AK CANTWELL         PATW  TTW          63 23N  148 57W  668   X                7 US
+AK CAPE LISBURNE    PALU  LUR   70104  68 53N  166 08W    3   X     T     W    6 US
+AK CAPE NEWENHAM    PAEH  EHM   70305  58 39N  162 04W  161   X     T          6 US
+AK CAPE ROMANZOF    PACZ  CZF   70212  61 47N  166 02W  146   X     T          6 US
+AK CENTRAL          PARL               65 34N  144 47W  284   X                7 US
+AK CENTRAL          PACE               65 34N  144 47W  286   X                7 US
+AK CENTRAL AK PROF        CEN   70197  65 30N  144 41W  259            W       8 US
+AK CHANDALAR LAKE   PALR  WCR          67 30N  148 29W  585   X                7 US
+AK CHEVAK           PAVA               61 32N  165 36W   23   X                7 US
+AK CHIGNIK BAY      PAJC  AJC          56 19N  158 22W   15   X                7 US
+AK CIRCLE/PAFC RFC  PACR  CRC          65 50N  144 04W  182   X              R 7 US
+AK COLD BAY         PACD  CDB   70316  55 12N  162 43W   30   X     T  X  A    5 US
+AK CORDOVA          PACV  CDV   70296  60 30N  145 30W   12   X     T     A    6 US
+AK DEADHORSE        PASC  SCC          70 12N  148 28W   15   X     T     A    6 US
+AK DEERING          PADE  DEE          66 04N  162 46W    5   X           A    7 US
+AK DELTA JUNCTION   PABI  BIG   70267  64 00N  145 44W  386   X     T     A    6 US
+AK DILLINGHAM       PADL  DLG   70321  59 03N  158 31W   26   X     T          6 US
+AK EAGLE            PAEG  EAA          64 47N  141 09W  268   X           A    7 US
+AK EARECKSON/SHEMYA PASY  SYA   70414  52 43N  174 07E   31   X     T  X       5 US
+AK EGEGIK           PAII  EII          58 11N  157 23W   30   X           W    7 US
+AK EIELSON AFB      PAEI  EIL   70265  64 40N  147 06W  167   X     T          6 US
+AK ELFIN COVE       PAEL  ELV          58 12N  136 21W    3   X                7 US
+AK ELIM APRT        PFEL               64 37N  162 16W   49   X                7 US
+AK ELMENDORF AFB    PAED  EDF   70272  61 15N  149 48W   59   X     T          6 US
+AK EMMONAK          PAEM  ENM          62 46N  164 31W    3   X                7 US
+AK EUREKA           PAZK  AZK          61 56N  147 10W 1003   X                7 US
+AK FAIRBANKS        PAFA  FAI   70261  64 48N  147 53W  132   X     T  X  A    5 US
+AK FAIRBANKS/WFO    PAFG  AFG          64 48N  147 53W  140                  F 8 US
+AK FALSE PASS       PAKF               54 51N  163 25W    6   X                7 US
+AK FRBNKS/PEDRO DOM PAPD  APD          65 02N  147 30W  790      X             8 US
+AK FAREWELL LAKE    PAFK  FKK   70248  62 32N  153 36W  321   X                7 US
+AK FORT RICHARDSON  PAFR  FRN   70270  61 16N  149 39W  115   X                6 US
+AK FORT WAINWRIGHT  PAFB  FBK          64 50N  147 37W  137   X     T          6 US
+AK FORT YUKON       PAFY        70194  66 34N  145 16W  131   Z                7 US
+AK FORT YUKON       PFYU  FYU          66 34N  145 16W  131   X                7 US
+AK FUNTER BAY       PAFN  FNR          58 15N  134 54W    9   X                7 US
+AK GALBRAITH LAKE   PAGB  GBH          68 29N  149 29W  811   X                7 US
+AK GALENA           PAGA  GAL   70222  64 44N  156 56W   46   X     T          6 US
+AK GAMBELL          PAGM  GAM   70204  63 46N  171 44W    8   X                7 US
+AK GLENNALLEN PROF        GNA   70268  62 07N  145 58W  564            W       8 US
+AK GOLOVIN          PAGL  N93          64 33N  163 02W    8   X           W    7 US
+AK GULKANA          PAGK  GKN   70271  62 09N  145 27W  481   X     T     A    6 US
+AK GUSTAVUS         PAGS  GST   70367  58 25N  135 44W    9   X     T          6 US
+AK HAINES           PAHN  HNS          59 15N  135 31W    5   X     T     A    6 US
+AK HAYES RIVER      PAHZ  HZZ          61 59N  152 05W  305   X                7 US
+AK HEALY            PAHV  HRR          63 50N  149 00W  396   X                7 US
+AK HOLY CROSS       PAHC  HCA          62 11N  159 47W   21   X           W    7 US
+AK HOMER            PAHO  HOM   70341  59 38N  151 30W   28   X     T     A    6 US
+AK HOONAH           PAOH  HNH          58 06N  135 27W    9   X                7 US
+AK HOOPER BAY       PAHP  HPB          61 32N  166 09W    5   X                7 US
+AK HUSLIA           PAHS  HSL          65 42N  156 23W   55   X                7 US
+AK HUSLIA           PAHL               65 42N  156 21W   65   X                7 US
+AK HYDABURG         PAHY  HYG          55 12N  132 50W    1   X                7 US
+AK IGIUGIG          PAIG               59 19N  155 54W   28   X           W    7 US
+AK ILIAMNA          PAIL  ILI   70340  59 45N  154 55W   49   X     T     A    6 US
+AK INDIAN MOUNTAIN  PAIM  UTO   70173  66 00N  153 42W  389   X     T          6 US
+AK JUNEAU           PAJN  JNU   70381  58 22N  134 35W    5   X     T     A    0 US
+AK JUNEAU/WFO       PAJK  AJK          58 22N  134 34W    7                  F 8 US
+AK KAKE             PAFE  AFE          56 58N  133 55W    9   X                7 US
+AK KALSKAG          PALG  KLG          61 32N  160 20W   17   X           W    7 US
+AK KALTAG           PAKV  KAL          64 20N  158 45W   61   X           A    7 US
+AK KENAI            PAEN  ENA   70259  60 34N  151 15W   27   X     T     A    6 US
+AK KETCHIKAN        PAKT  KTN   70395  55 21N  131 42W   28   X     T     A    6 US
+AK KIANA            PAIK               66 59N  160 26W   51   X                8 US
+AK KING COVE        PAVC               55 07N  162 16W   47   X                8 US
+AK KING SALMON      PAKN  AKN   70326  58 41N  156 39W   17   X     T  X  A    5 US
+AK KING SALMON/88D  PAKC  AKC          58 41N  156 38W   19      X             8 US
+AK KING SALMON AFS  KQRC  QRC          58 41N  156 38W   15   X                7 US
+AK KIPNUK           PAKI  IIK          59 56N  164 02W    4   X                8 US
+AK KIVALINA         PAVL  KVL          67 44N  164 33W    3   X           A    7 US
+AK KLAWOCK          PAKW  AKW          55 35N  133 04W   15   X           A    7 US
+AK KODIAK           PADQ  ADQ   70350  57 45N  152 30W   34   X     T  X  A    5 US
+AK KODIAK           PAKD  KDK          57 48N  152 22W   42                    8 US
+AK KOLIGANEK        PAJZ  JZZ          59 44N  157 16W   82   X                8 US
+AK KOTZEBUE         PAOT  OTZ   70133  66 52N  162 35W    3   X     T  X  A    5 US
+AK KOYUK            PAKK  KKA          64 56N  161 09W   47   X                7 US
+AK KUPARUK          PAKU  UBW          70 19N  149 35W    2   X           S    7 US
+AK MANLEY HOT SPRIN PAML  MLY          65 00N  150 39W   81   X                7 US
+AK MANOKOTAK        PAMB  MBA          58 59N  159 03W   16   X                7 US
+AK MARSHALL         PADM               61 52N  162 02W   31   X                8 US
+AK MCCARTHY         PAMX  15Z          61 26N  142 55W  455   X                7 US
+AK MCGRATH          PAMC  MCG   70231  62 58N  155 37W  103   X     T  X  A    5 US
+AK MCKINLEY PARK    PAIN  INR          63 44N  148 55W  524   X                7 US
+AK MEKORYUK         PAMY  MYU          60 22N  166 16W   13   X                7 US
+AK METLAKATLA       PAMM  MTM          55 08N  131 35W    1   X                7 US
+AK MIDDLETON ISLAND PAMD  MDO   70343  59 26N  146 18W   14   X                7 US
+AK MIDDLETON IS 88D PAIH  AIH          59 28N  146 18W   20      X             8 US
+AK MINCHUMINA       PAMH  MHM   70246  63 54N  152 19W  214   X                7 US
+AK MOUNTAIN VILLAGE PAMO  MOU          62 06N  163 41W  103   X           W    7 US
+AK NABESNA          PABN  IBN          62 24N  143 00W  880   X                7 US
+AK NELSON LAGOON    PAOU               56 00N  161 10W    4   X                8 US
+AK NENANA           PANN  ENN   70260  64 33N  149 05W  110   X           A    7 US
+AK NEW STUYAHOK     PANW  KNW          59 27N  157 22W   92   X                8 US
+AK NIKOLAI          PAFS  FSP          63 01N  154 21W  126   X                7 US
+AK NOME             PAOM  OME   70200  64 30N  165 26W   11   X     T  X  A    5 US
+AK NOME/88D/PAEC                       64 31N  165 18W   16      X             6 US
+AK CHULITNA         PAEC  AEC          62 53N  149 50W  381   X                7 US
+AK NORTHWAY         PAOR  ORT   70291  62 58N  141 56W  523   X     T     A    6 US
+AK NOATAK           PAWN  WTK          67 34N  162 59W   30   X                7 US
+AK NOORVIK          PFNO  D76          66 49N  161 01W   17   X                7 US
+AK NUIQSUT          PAQT  AQT          70 13N  151 00W   12   X     T     A    6 US
+AK NUIQSUT VILLAGE  PALP               70 20N  150 56W    5   X                7 US
+AK OLIKTOK POINT    POLI  OLI   70063  70 30N  149 53W    5   X                7 US
+AK PALMER           PAAQ  PAQ   70274  61 36N  149 05W   73   X     T     A    6 US
+AK PAXSON           PAXK  PXK          63 02N  145 30W  809   X                7 US
+AK PETERSBURG       PAPG  PSG   70386  56 49N  132 58W   15   X     T          6 US
+AK PILOT POINT      PAPN  PNP          57 35N  157 34W   18   X                8 US
+AK PLATINUM         PAPM  PTU          59 01N  161 49W    5   X                7 US
+AK POINT HOPE       PAPO  PHO          68 21N  166 48W    6   X           W    7 US
+AK POINT LAY        PPIZ  PIZ   70121  69 44N  163 00W    8   X           W    7 US
+AK PORT ALEXANDER   PAAP  AHP          56 14N  134 39W    6   X                7 US
+AK PORT ALSWORTH    PALJ  TPO          60 12N  154 18W   81   X                7 US
+AK PORT CLARENCE    PAPC  KPC   70119  65 15N  166 51W    3   X                7 US
+AK PORT HEIDEN      PAPH  PTH   70333  56 57N  158 37W   29   X                7 US
+AK PORTAGE GLACIER  PATO  POR          60 47N  148 51W   31   X           A    7 US
+AK PROSPECT CREEK   PAPR  PPC          66 49N  150 39W  335   X                7 US
+AK PRUDHOE BAY      PAUD  PUO          70 15N  148 20W   12   X                7 US
+AK PUNTILLA LAKE    PAPT  PTI   70249  62 06N  152 43W  558   X                7 US
+AK REG DOG          PARD               68 02N  162 54W  297   X                7 US
+AK REG DOG          PADG  DGG          68 02N  162 54W  297   X                7 US
+AK RUBY             PARY  RBY          64 44N  155 28W  199   X                7 US
+AK RUSSIAN MISSION  PARS  RSH          61 46N  161 19W   16   X           W    7 US
+AK SAINT MARYS      PASM  KSM          62 04N  163 18W   92   X                7 US
+AK SAND POINT       PASD  SDP          55 20N  160 30W    7   X     T          7 US
+AK SAVOONGA         PASA  SVA          63 41N  170 30W   16   X                7 US
+AK SCAMMON BAY      PACM  SCM          61 51N  165 34W    4   X                7 US
+AK SELAWIK          PASK  WLK          66 36N  160 00W    8   X                7 US
+AK SELDOVIA         PASO  SOV          59 27N  151 42W    9   X           A    7 US
+AK SEWARD           PAWD  SWD   70277  60 07N  149 25W   23   X           A    7 US
+AK SHAKTOOLIK       PFSH  2C7          64 22N  161 13W    7   X                8 US
+AK SHISHMAREF       PASH  SHH          66 16N  166 05W    2   X                7 US
+AK SHUNGNAK         PAGH  SHG          66 53N  157 10W   60   X                8 US
+AK SITKA            PASI  SIT   70371  57 04N  135 21W    5   X     T     A    6 US
+AK SITKA/BIORKA/88D PACG  ACG          56 51N  135 32W   63      X             8 US
+AK SKAGWAY          PAGY  SGY   70362  59 28N  135 18W    5   X     T     A    6 US
+AK SKWENTNA         PASW  SKW   70255  61 58N  151 12W   48   X                7 US
+AK SLANA            PADT  DDT          62 43N  143 51W  730   X                7 US
+AK SLEETMUTE        PASL  SLQ          61 43N  157 09W   55   X                7 US
+AK SNOWSHOE LAKE    PALK  LLK          62 02N  142 40W  735   X                7 US
+AK SOLDOTNA         PASX  SXQ          60 29N  151 02W   32   X                7 US
+AK SPARREVOHN       PASV  SVW   70235  61 06N  155 34W  484   X     T          7 US
+AK ST GEORGE        PAPB  PBV          56 35N  169 40W   35   X           A    7 US
+AK ST MICHAEL       PAMK               63 29N  162 07W   28   X                8 US
+AK ST PAUL ISLAND   PASN  SNP   70308  57 09N  170 13W   29   X     T  X  A    5 US
+AK STONY RIVER LAND PAER  ERW          61 16N  153 48W  345   X                7 US
+AK SUTTON           PAJV  JVM          61 43N  148 53W  263   X                7 US
+AK TAHNETNA PASS LO PASP  SMU          61 49N  147 33W  799   X                7 US
+AK TALKEETNA        PATK  TKA   70251  62 18N  150 06W  109   X     T     A    6 US
+AK TALKEETNA PROF         TLK   70252  62 19N  150 25W  137            W       8 US
+AK TANANA           PATA  TAL   70178  65 10N  152 06W   67   X     T     A    6 US
+AK TATALINA AFS     PATL  TLJ          62 54N  155 58W  294   X     T          6 US
+AK TELLER           PATE               65 14N  166 20W   90   X                8 US
+AK TIN CITY AFS     PATC  TNC   70117  65 34N  167 55W   83   X     T          6 US
+AK TOGIAK           PATG  TOG          59 03N  160 23W    4   X                7 US
+AK TOKSOOK BAY      PAOO               60 32N  165 07W   18   X           W    7 US
+AK UMIAT            PAUM  UMT   70162  69 22N  152 08W  104   X                7 US
+AK UNALAKLEET       PAUN  UNK   70207  63 53N  160 48W    6   X     T          6 US
+AK DUTCH HARBOR     PADU  DUT   70489  53 54N  166 32W    4   X     T          6 US
+AK VALDEZ           PAVD  VDZ          61 08N  146 15W   37   X     T          6 US
+AK VALDEZ WSO       PAVW  VWS   70275  61 08N  146 21W   11   X                7 US
+AK WAINWRIGHT       PAWI  AWI   70030  70 37N  159 51W   27   X           A    7 US
+AK WALES            PAIW               65 37N  168 06W    7   X                8 US
+AK WASILLA          PAWS  IYS          61 34N  149 32W  107   X                7 US
+AK WHITE MOUNTAIN   PAWM  WMO          64 41N  163 25W   82   X           W    8 US
+AK WHITTIER         PAWR  IEM          60 47N  148 43W   47   X                7 US
+AK WILLOW           PAUO  UUO          61 45N  150 03W   69   X                7 US
+AK WOLVERINE ROAD   PAIZ  IZY          61 38N  149 02W  236   X                7 US
+AK WRANGELL         PAWG  WRG   70387  56 29N  132 22W   11   X     T          6 US
+AK YAKUTAT          PAYA  YAK   70361  59 31N  139 40W   11   X     T  X  A    5 US
+AK ALASKAN ARTCC    PZ74  Z74          60 09N  164 17W    1         A          8 US
+AK ALASKAN ARTCC    PZ76  Z76          65 15N  134 39W  647         A          8 US
+
+ALABAMA            16-DEC-13
+CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
+AL ALABASTER        KEET  EET          33 11N  086 47W  173   X     T     A    3 US
+AL ALBERTVILLE MUNI K8A0  8A0          34 14N  086 15W  315   X                7 US
+AL ALEXANDER/RUSSEL KALX  ALX          32 55N  085 58W  209   X           W    7 US
+AL ANDALUSIA/OPP AR K79J  79J          31 19N  086 24W   94   X           W    8 US
+AL ANNISTON         KANB  ANB          33 35N  085 51W  183   X     T     A    6 US
+AL AUBURN UNIV. (AM KAUB  AUB          32 36N  085 30W  198   X                7 US
+AL AUBURN OPELIKA A KAUO  AUO          32 37N  085 25W  236   X                7 US
+AL BIRMINGHAM       KBHM  BHM   72228  33 34N  086 45W  197   X     T     A    4 US
+AL BRMNGHM/ALABASTR KBMX  BMX   72230  33 10N  086 46W  197      X     X     F 8 US
+AL OZARK/CAIRNS AAF KOZR  OZR          31 17N  085 43W   93   X     T          6 US
+AL CENTREVILLE WSM  K0A8  0A8   72229  32 56N  087 05W   77   X     S          6 US
+AL COURTLAND        K9A4  9A4          34 40N  087 21W  179   X           W    8 US
+AL CULLMAN/FOLSOM F K3A1  3A1          34 16N  086 51W  294   X           W    7 US
+AL CULLMAN/FOLSOM F KCMD  CMD          34 16N  086 51W  294   X           W    7 US
+AL DECATUR          KDCU  DCU          34 39N  086 57W  176   X           A    7 US
+AL DEMOPOLIS        KDYA  DYA          32 28N  087 57W   34   X                7 US
+AL DOTHAN           KDHN  DHN          31 19N  085 27W  113   X     T     A    6 US
+AL EUFAULA          KEUF  EUF          31 57N  085 08W   87   X           W    8 US
+AL EVERGREEN        KGZH  GZH          31 25N  087 03W   78   X           A    7 US
+AL FAIRHOPE         KCQF  CQF          30 28N  087 53W   28   X           W    8 US
+AL FLORALA MUNI     K0J4  0J4          31 03N  086 19W   96   X                8 US
+AL FT PAYNE/ISBELL  K4A9  4A9          34 28N  085 43W  267   X           W    7 US
+AL FT RUCKER 88D    KEOX  EOX          31 28N  085 28W  132      X             8 US
+AL FT RUCKER/SHELL  KSXS  SXS          31 22N  085 51W  122   X                7 US
+AL FT RUCKER/HANCHE KHEY  HEY          31 21N  085 39W   97   X                8 US
+AL GADSDEN MUNI     KGAD  GAD          33 58N  086 04W  173   X           W    7 US
+AL GREENVILLE       KPRN  PRN          31 51N  086 37W  138   X                8 US
+AL GULF SHORES      KJKA  JKA          30 17N  087 40W    5   X                7 US
+AL HALEYVILLE       K1M4  1M4          34 17N  087 36W  284   X                8 US
+AL HUNTSVILLE       KHSV  HSV   72323  34 39N  086 47W  191   X     T     A    4 US
+AL HUNTSVILLE/MADIS KMDQ  MDQ          34 52N  086 33W  230   X           W    8 US
+AL HYTOP/88D        KHTX  HTX          34 56N  086 05W  536      X             8 US
+AL JASPER/WALKER    KJFX  JFX          33 54N  087 19W  148   X                8 US
+AL LOWE AHP/FT. RUC KLOR  LOR          31 21N  085 45W   74   X                7 US
+AL MAXWELL AFB 88D  KMXX  MXX          32 32N  085 47W  122      X             8 US
+AL MAXWELL AFB/MGM  KMXF  MXF          32 22N  086 22W   51   X     T          6 US
+AL MOBILE/BROOKLEY  KBFM  BFM          30 37N  088 04W   20   X     T     A    7 US
+AL MOBILE/BATES     KMOB  MOB   72223  30 41N  088 15W   63   X  X  T     A  F 3 US
+AL MONTGOMERY       KMGM  MGM   72226  32 18N  086 24W   63   X     U     A    4 US
+AL MUSCLE SHOAL     KMSL  MSL          34 45N  087 36W  164   X     U     A    6 US
+AL MONROEVILLE      KMVC  MVC          31 27N  087 21W  128                    8 US
+AL PHI OIL PLAT     KRAM  RAM          29 03N  088 05W   10   X           H    8 US
+AL REDSTONE ARSENAL KHUA  HUA   74001  34 41N  086 41W  209   X           W    8 US
+AL SCOTTSBORO       K4A6  4A6          34 41N  086 00W  198   X                8 US
+AL SEMMNES VOR      KSJI  SJI          30 44N  088 22W   63         V          8 US
+AL TALLADEGA        KASN  ASN          33 34N  086 03W  162   X     T          8 US
+AL TROY             KTOI  TOI          31 51N  086 01W  118   X     T     A    7 US
+AL TUSCALOOSA       KTCL  TCL          33 13N  087 37W   49   X     T     A    6 US
+AL VULCAN VOR       KVUZ  VUZ          33 40N  086 54W  250         V          8 US
+AL CENTREVILLE WSM  KCKL  CKL          32 53N  087 15W  140   Z                8 US
+AL DAUPHIN ISLAND   K4R9  4R9   99442  30 16N  088 08W    2   Z                8 US
+AL FAIRHOPE         K4R4  4R4          30 28N  087 53W   28   Z                8 US
+AL HUNTSVILLE/MADIS KM82  M82          34 51N  086 33W  231   Z                8 US
+AL VIOSCA KNOLL768  KVOA  VOA          29 14N  087 47W   53   X                9 US
+
+ARKANSAS           30-APR-13
+CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
+AR ARKADELPHIA      KADF  ADF          34 06N  093 04W   56   X     T          8 US
+AR BATESVILLE       KBVX  BVX          35 44N  091 39W  141   X           W    7 US
+AR BENTONVILLE      KH00  H00          36 21N  094 13W  395   X           W    7 US
+AR BENTONVILLE      KVBT  VBT          36 21N  094 13W  395   X           W    7 US
+AR BENTONVILLE (NW) KXNA  XNA          36 17N  094 18W  392   X     T          6 US
+AR BLYTHEVILLE      KHKA  HKA          35 56N  089 50W   78   X           A    7 US
+AR BLYTHEVILLE      KBYH  BYH          35 58N  089 57W   78   X           A    7 US
+AR CAMDEN           KCDH  CDH          33 37N  092 46W   35   X                8 US
+AR CLINTON MUNI     KCCA  CCA          35 36N  092 27W  157   X                8 US
+AR CORNING          K4M9  4M9          36 24N  090 39W   90   X                8 US
+AR DE QUEEN         KDEQ  DEQ          34 03N  094 24W  106   X           A    7 US
+AR DEQUEEN PROFILER KDQU  DQU   74752  34 06N  094 17W  195            W       8 US
+AR EL DORADO        KELD  ELD          33 13N  092 49W   81   X     U     A    6 US
+AR FAYETTEVILLE     KFYV  FYV          36 01N  094 10W  379   X     T     A    4 US
+AR FLIPPIN (AWOS)   KFLP  FLP          36 17N  092 35W  219   X           W    7 US
+AR FORT SMITH       KFSM  FSM   72344  35 20N  094 22W  140   X     U     A    3 US
+AR SLATINGTON MTN.  KSRX  SRX          35 17N  094 22W  195      X             8 US
+AR HARRISON         KHRO  HRO          36 16N  093 09W  417   X     T     A    6 US
+AR HOT SPRINGS      KHOT  HOT          34 29N  093 06W  162   X     T     A    6 US
+AR JONESBORO        KJBR  JBR          35 50N  090 39W   79   X     T     A    6 US
+AR LITTLE ROCK      KLIT  LIT          34 44N  092 14W   79   X     U     A    0 US
+AR LITTLE ROCK AFB  KLRF  LRF          34 55N  092 09W   95   X     T          1 US
+AR MENA INTERMTN    KMEZ  MEZ          34 33N  094 12W  329   X           W    8 US
+AR W MEMPHIS MUNI   KAWM  AWM          35 08N  090 14W   65   X           A    5 US
+AR MONTICELLO       KLLQ  LLQ          33 38N  091 45W   83   X     T     A    7 US
+AR MOUNT IDA        KMWT  MWT          34 33N  093 35W  214   X           A    7 US
+AR MOUNTAIN HOME    KBPK  BPK          36 22N  092 28W  280   X     T     A    7 US
+AR N. LITTLE ROCK   KLZK  LZK   72340  34 50N  092 16W  173   X  X     X     F 8 US
+AR NEWPORT          KM19  M19          35 39N  091 10W   73   X                8 US
+AR PINE BLUFF/GRIDR KPBF  PBF          34 11N  091 56W   62   X     T     A    6 US
+AR RAZORBACK VOR    KRZC  RZC          36 15N  094 07W  443         V          8 US
+AR ROGERS           KROG  ROG          36 22N  094 05W  415   X           W    7 US
+AR RUSSELLVILLE     KRUE  RUE          35 15N  093 06W  115   X           A    7 US
+AR SEARCY           KSRC  SRC          35 13N  091 44W   80   X                7 US
+AR SILOAM SPRING    KSLG  SLG          36 12N  094 28W  300   X     Z          7 US
+AR SPRINGDALE MUNI  KASG  ASG          36 10N  094 07W  412   X                7 US
+AR STUTTGART        KSGT  SGT          34 36N  091 34W   68   X     Z          7 US
+AR TEXARKANA        KTXK  TXK          33 27N  093 59W  111   X     U     A    6 US
+AR WALNUT RIDGE     KARG  ARG          36 07N  090 55W   83   X     V          6 US
+AR ARKADELPHIA      KM89  M89          34 06N  093 04W   56   Z                9 US
+AR FORT CHAFFEE                 69050  35 10N  094 48W  143   Z                8 US
+AR MENA INTERMTN    KM39  M39          34 33N  094 12W  329   Z                8 US
+
+ARIZONA            30-APR-13
+CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
+AZ PHOENIX/SKY HRBR KPHX  PHX   72278  33 26N  112 01W  336   X     U     A    0 US
+AZ TUCSON           KTUS  TUS          32 08N  110 57W  776   X     U     A    2 US
+AZ BUCKEYE          KBXK  BXK          33 25N  112 41W  315   X                8 US
+AZ BULLHEAD CITY    KIFP  IFP          35 09N  114 34W  212   X                7 US
+AZ CASA GRANDA      KCGZ  CGZ          32 57N  111 46W  446   X           W    7 US
+AZ CHANDLER/MESA    KIWA  IWA          33 18N  111 39W  412   X  X  T          3 US
+AZ CHANDLER         KCHD  CHD          33 16N  111 49W  379   X           H    8 US
+AZ COCONINO/FLAGSTF KFSX  FSX          34 34N  111 12W 2261      X             8 US
+AZ COLORADO CITY    KAZC  AZC          36 58N  113 01W 1486   X                8 US
+AZ COOLIDGE MUNI    KP08  P08          32 56N  111 26W  481   X           W    8 US
+AZ DAVIS/TUCSON     KDMA  DMA          32 10N  110 52W  824   X     T          6 US
+AZ DOUGLAS BISBEE   KDUG  DUG          31 28N  109 35W 1265   X     T          6 US
+AZ FLAGSTAFF        KFLG  FLG   72375  35 08N  111 40W 2134   X     T     A    2 US
+AZ FLAGSTAFF/BELLEM KFGZ  FGZ   72376  35 14N  111 49W 2192            X     F 8 US
+AZ FORT HUACHUCA    KFHU  FHU   72273  31 35N  110 21W 1438   X     T          6 US
+AZ GILA BEND (AAF)  KGXF  GXF   74724  32 52N  112 43W  262   X                7 US
+AZ GLENDALE         KGEU  GEU          33 32N  112 18W  325   X                7 US
+AZ LUKE AFB/GLENDAL KLUF  LUF          33 31N  112 22W  332   X     T          6 US
+AZ GOODYEAR MUNICIP KGYR  GYR          33 25N  112 22W  295   X                7 US
+AZ GRAND CANYON     KGCN  GCN   72378  35 57N  112 09W 2016   X     T     A    4 US
+AZ GRAND CANYON/VAL K40G  40G          35 38N  112 09W 1830   X                7 US
+AZ KINGMAN          KIGM  IGM   72370  35 15N  113 56W 1032   X           A    7 US
+AZ LAKE HAVASU CITY KHII  HII          34 34N  114 22W  238   X                8 US
+AZ MESA/FALCON FLD  KFFZ  FFZ          33 28N  111 43W  424   X                7 US
+AZ NOGALES          KOLS  OLS          31 25N  110 51W 1184   X     T     A    6 US
+AZ PAGE             KPGA  PGA   72371  36 55N  111 27W 1307   X     T     A    3 US
+AZ PAYSON           KPAN  PAN          34 15N  111 20W 1572   X           W    9 US
+AZ PEACH SPRING     KPGS  PGS          35 37N  113 32W 1450         V          8 US
+AZ PHOENIX/DEER VLY KDVT  DVT          33 41N  112 04W  443   X           A    1 US
+AZ PHOENIX/WFO      KPSR  PSR   74626  33 26N  112 01W  342            X     F 8 US
+AZ PIMA COUNTY/88D  KEMX  EMX          31 54N  110 38W 1586      X             8 US
+AZ PIONEER AIRFIELD KALK  ALK          31 36N  110 26W 1453   X                8 US
+AZ PRESCOTT         KPRC  PRC          34 39N  112 25W 1524   X     T     A    3 US
+AZ PRESCOTT(VOR)    KDRK  DRK          34 42N  112 29W 1524         V          8 US
+AZ SAFFORD          KSAD  SAD          32 51N  109 38W  962   X     S     A    6 US
+AZ SAN SIMON        KSSO  SSO          32 16N  109 15W 1097         V          8 US
+AZ SCOTTSDALE       KSDL  SDL          33 37N  111 55W  447   X     T     A    7 US
+AZ SEDONA           KSEZ  SEZ          34 51N  111 47W 1473   X     T          8 US
+AZ SHOW LOW MUNICIP KSOW  SOW          34 16N  110 00W 1954   X     S          6 US
+AZ ST. JOHNS        KSJN  SJN          34 31N  109 23W 1745   X     V     A    6 US
+AZ TUBA CITY        KTBC  TBC          36 07N  111 16W 1538         V          8 US
+AZ TUCSON/WFO       KTWC  TWC   72274  32 14N  110 57W  752            X     F 8 US
+AZ TUCSON/RYAN FLD  KRYN  RYN          32 09N  111 10W  737   X           W    8 US
+AZ WILLIAMS CLARK   KCMR  CMR          35 18N  112 12W 2036   X                8 US
+AZ WINDOW ROCK      KRQE  RQE          35 39N  109 04W 2055   X           A    7 US
+AZ WINSLOW          KINW  INW   72374  35 02N  110 43W 1490   X     U     A    4 US
+AZ YUMA/88D         KYUX               32 30N  114 39W   53      X  Z          8 US
+AZ YUMA INTL        KYUM  YUM   72280  32 38N  114 35W   63   X     T          3 US
+AZ YUMA MCAS        KNYL  NYL   69960  32 38N  114 37W   65   X     T          6 US
+AZ YUMA PRVG GROUN  K1Y7  1Y7   74004  32 30N  114 24W  231                    8 US
+AZ YUMA PRVG GROUN              69031  32 30N  114 24W  231                    8 US
+AZ YUMA (VOR)       KBZA  BZA          32 46N  114 36W   63         V          8 US
+AZ GILA BEND (AAF)  KGBN  GBN          32 52N  112 43W  262   Z                8 US
+AZ NOGALES          K13A  13A          31 25N  110 51W 1198   Z                8 US
+AZ PAYSON           K0E4  0E4          34 13N  111 19W 1498   Z                8 US
+AZ SAFFORD          KE74  E74          32 49N  109 41W  900   Z                8 US
+AZ SHOW LOW         KE03  E03          34 15N  110 02W 1955   Z                8 US
+AZ TUBA CITY        KT03  T03          36 06N  111 23W 1400   Z                8 US
+AZ WINDOW ROCK      KP34  P34          35 39N  109 04W 2055   Z                8 US
+
+CALIFORNIA         03-DEC-13
+CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
+CA ALAMEDA NAS      KNGZ  NGZ   74506  37 46N  122 19W    4   X                7 US
+CA ALTURAS          KAAT  AAT          41 29N  120 34W 1331   X           A    7 US
+CA APPLE VALLEY     KAPV  APV          34 34N  117 11W  934   X                8 US
+CA ARCATA/EUREKA    KACV  ACV          40 59N  124 06W   67   X     T     A    6 US
+CA AUBURN MUNI      KAUN  AUN          38 57N  121 05W  467   X           W    8 US
+CA AVALON           KAVX  AVX   72292  33 24N  118 25W  482   X           A    7 US
+CA BAKERSFIELD      KBFL  BFL   72384  35 26N  119 03W  151   X     T     A    6 US
+CA BAKERSFIELD(VOR) KEHF  EHF          35 29N  119 06W  151         V          8 US
+CA BEALE AFB/MARYSV KBAB  BAB          39 07N  121 25W   34   X     T          6 US
+CA BEALE/ORO DAM    KBBX  BBX          39 30N  121 38W   53      X             8 US
+CA BEAUMONT         KBUO  BUO          33 55N  116 58W  692   X                7 US
+CA BIG BEAR CITY    KL35  L35          34 16N  116 51W 2059   X                8 US
+CA BICYCLE LAKE     KBYS  BYS   74611  35 17N  116 37W  716   X     T          6 US
+CA BISHOP           KBIH  BIH   72480  37 22N  118 21W 1253   X     T     A    6 US
+CA BLYTHE           KBLH  BLH          33 37N  114 43W  119   X     T     A    6 US
+CA BRIDGEPORT       KO57  O57          38 16N  119 13W 1973   X           W    8 US
+CA BRIDGEPORT(MCMWT KBAN               38 21N  119 31W 2057   X                8 US
+CA BURBANK          KBUR  BUR   72288  34 12N  118 22W  217   X     T     A    6 US
+CA BURNEY           KBNY  BNY          40 52N  121 40W  957   X                7 US
+CA CALEXICO INTL    KCXL  CXL          32 40N  115 30W    1   X                7 US
+CA CAMARILLO        KCMA  CMA          34 13N  119 06W   23   X           W    7 US
+CA CAMP PENDLETON   KNFG  NFG          33 17N  117 20W   24   X     T          6 US
+CA CAMP ROBERTS     KSYL  SYL          35 45N  120 42W  220                    8 US
+CA CAMPO            KCZZ  CZZ          32 38N  116 28W  807   X           A    7 US
+CA CARLSBAD         KCRQ  CRQ          33 08N  117 17W   99   X     T     A    6 US
+CA CHICO MUNICIPAL  KCIC  CIC   72497  39 47N  121 50W   73   X                7 US
+CA CHINA LAKE (NAF) KNID  NID   74612  35 40N  117 40W  696   X     T          4 US
+CA CHINO            KCNO  CNO          33 59N  117 37W  207   X           A    7 US
+CA COLUMBIA         KO22  O22          38 02N  120 25W  646   X                7 US
+CA CONCORD          KCCR  CCR          38 00N  122 03W   11   X           A    7 US
+CA CORONA MUNI      KAJO  AJO          33 54N  117 36W  163   X                8 US
+CA CRESCENT CITY    KCEC  CEC          41 46N  124 13W   17   X     T          6 US
+CA DAGGETT          KDAG  DAG          34 51N  116 47W  587   X     T     A    6 US
+CA DAVIS            KEDU  EDU          38 32N  121 47W   21   X           W    8 US
+CA EDWARDS AFB      KEDW  EDW   72381  34 53N  117 52W  702   X     T  X       3 US
+CA EDWARDS AFB/88D  KEYX  EYX          35 06N  117 34W  840      X             8 US
+CA EDWARDS N-AUX    K9L2  9L2          34 58N  117 52W  701   X                8 US
+CA EL CENTRO NAF    KNJK  NJK   72281  32 49N  115 40W  -13   X     T          6 US
+CA EL MONTE         KEMT  EMT   74704  34 04N  118 01W   90   X                7 US
+CA EMIGRANT GAP     KBLU  BLU          39 17N  120 42W 1609   X           A    7 US
+CA EUREKA/MURRAY    KEKA  EKA   72594  40 48N  124 10W   18   X              F 8 US
+CA FORTUNA/FOT/VOR                     40 40N  124 14W  122         V          8 US
+CA FORTUNA          KFOT  FOT          40 33N  124 08W  120   X                8 US
+CA FRESNO           KFAT  FAT   72389  36 47N  119 43W  104   X     T     A    2 US
+CA FRESNO(VOR)      KCZQ  CZQ          36 53N  119 49W  104         V          8 US
+CA FRESNO CHANDLER  KFCH  FCH          36 43N  119 49W   85   X                7 US
+CA FULLERTON        KFUL  FUL          33 52N  117 59W   35   X           A    7 US
+CA GRASS VALLEY     KGOO  GOO          39 13N  121 00W  962   X                8 US
+CA HALF MOON BAY    KHAF  HAF          37 31N  122 30W   21   X                8 US
+CA HANFORD          KHJO  HJO          36 19N  119 37W   74   X                7 US
+CA HANFORD/SAN JOAQ KHNX  HNX          36 19N  119 38W   74      X  T        F 8 US
+CA HANFORD          KO18  O18          36 19N  119 38W   74   X           A    7 US
+CA HAWTHORNE        KHHR  HHR          33 55N  118 20W   18   X           A    7 US
+CA HAYWARD          KHWD  HWD          37 40N  122 07W   21   X           A    7 US
+CA HEALDSBURG       KHES  HES          38 39N  122 54W   85   X           W    8 US
+CA HECTOR(VOR)      KHEC  HEC          34 48N  116 28W  617         V          8 US
+CA HOLLISTER MUNI   KCVH  CVH          36 54N  121 25W   70   X           W    8 US
+CA HUMBOLDT CTY/88D KBHX  BHX          40 30N  124 18W  732      X             8 US
+CA HUNTER LIGGET    KHGT  HGT   69002  36 00N  121 13W  310   X                7 US
+CA IMPERIAL         KIPL  IPL          32 50N  115 35W  -17   X     T     A    6 US
+CA IMPERIAL BEACH   KNRS  NRS          32 34N  117 07W    7   X                7 US
+CA INYOKERN         KIYK  IYK          35 40N  117 49W  749   X                7 US
+CA LA VERNE/BRACKET KPOC  POC          34 06N  117 46W  308   X                7 US
+CA LANCASTER/FOX    KWJF  WJF          34 43N  118 13W  715   X     T     A    6 US
+CA LEMOORE NAS/REEV KNLC  NLC   74702  36 19N  119 57W   72   X     T  Z       6 US
+CA LINCOLN          KLHM  LHM          38 55N  121 21W   37   X                8 US
+CA LITTLE RIVER     KLLR  LLR          39 16N  123 45W  175   X           W    8 US
+CA LIVERMORE        KLVK  LVK          37 42N  121 49W  117   X           A    7 US
+CA LOMPOC           KLPC  LPC   74606  34 40N  120 28W   27   X        Z  W    7 US
+CA LONG BEACH       KLGB  LGB   72297  33 49N  118 09W   10   X     T     A    6 US
+CA LOS ALAMITOS AAF KSLI  SLI          33 46N  118 02W   11   X     T          7 US
+CA LOS ANGELES      KLAX  LAX   72295  33 56N  118 23W   46   X     U     A    0 US
+CA LOS ANGELES/OXNA KLOX  LOX          34 12N  119 12W   20                  F 8 US
+CA LOS ANGELS/ARTCC KZLA  ZLA          34 38N  118 05W  819         A          8 US
+CA LOS ANGELES      KCQT  CQT          34 01N  118 17W   56   X           A    7 US
+CA LA / WHITEMAN    KWHP               34 15N  118 25W  306   X           W    8 US
+CA MADERA           KMAE  MAE          36 59N  120 07W   77   X           A    7 US
+CA MAMMOTH/JUNE LAK KMMH  MMH          37 37N  118 49W 2173   X     T          7 US
+CA MARYSVILLE       KMYV  MYV          39 06N  121 34W   21   X           A    7 US
+CA MATHER FIELD     KMHR  MHR          38 32N  121 17W   29   X     T          7 US
+CA MCCLELLAN AFB    KMCC  MCC          38 40N  121 24W   23   X                7 US
+CA MERCED           KMCE  MCE          37 17N  120 30W   47   X     T     A    6 US
+CA MERCED/CASTLE AF KMER  MER   72481  37 23N  120 34W   57   X     T          8 US
+CA MIRAMAR NAS/SAN  KNKX  NKX   72293  32 52N  117 08W  146   X  X  T  X       5 US
+CA MISSION BAY VOR  KMZB  MZB          32 47N  117 14W   12         V          8 US
+CA MODESTO          KMOD  MOD          37 37N  120 57W   29   X     V     A    6 US
+CA MOFFETT NAS/MTN  KNUQ  NUQ   74509  37 24N  122 03W   12   X                7 US
+CA MOJAVE           KMHV  MHV          35 04N  118 09W  849   X                7 US
+CA MONTAGUE/SISKIYO KSIY  SIY          41 46N  122 28W  807   X           A    7 US
+CA MONTEREY         KMRY  MRY          36 35N  121 51W   66   X     T     A    2 US
+CA MONTEREY/WFOKMTR                    36 35N  121 51W   66                  F 8 US
+CA MOUNT SHASTA     KMHS  MHS   72595  41 19N  122 19W 1078   X           A    7 US
+CA MOUNT WILSON     KMWS  MWS   72289  34 14N  118 03W 1739   X                7 US
+CA MURRIETA/TEMECUL KF70  F70          33 34N  117 08W  412   X           W    7 US
+CA NAPA             KAPC  APC          38 12N  122 17W   13   X           A    7 US
+CA NEEDLES          KEED  EED   72380  34 46N  114 37W  302   X     U          6 US
+CA NEWHALL          K3A6  3A6          34 22N  118 34W  427   X                7 US
+CA NORTH ISLAND NAS KNZY  NZY          32 42N  117 13W    8   X     T          6 US
+CA NOVATO/GNOSS FLD KDVO  DVO          38 09N  122 33W    1   X           A    7 US
+CA OAKLAND          KOAK  OAK   72493  37 43N  122 14W   26   X     U  X  A    1 US
+CA OAKLAND/ARTCC    KZOA  ZOA          37 33N  122 01W   11         A          8 US
+CA OCEANSIDE        KOKB  OKB          33 13N  117 21W    8   X           A    7 US
+CA OCEANSIDE/RED-B  KNXF  NXF          33 17N  117 27W   27   X                8 US
+CA ONTARIO          KONT  ONT          34 03N  117 35W  274   X     T     A    1 US
+CA ORANGE CTY/88D   KSOX  SOX          33 49N  117 38W  923      X             8 US
+CA ORCUTT OIL/VBG   KVBX  VBX          34 50N  120 24W  373      X             8 US
+CA OROVILLE         KOVE  OVE          39 30N  121 37W   58   X           A    7 US
+CA OXNARD           KOXR  OXR          34 12N  119 12W   20   X     T     A    7 US
+CA PALM SPRINGS     KPSP  PSP          33 49N  116 30W  135   X     T     A    3 US
+CA PALMDALE         KPMD  PMD   72382  34 38N  118 05W  780   X     T     A    6 US
+CA PALMDALE         KGXA  GXA          34 34N  117 40W  923   X           W    8 US
+CA PALO ALTO        KPAO  PAO          37 28N  122 07W    2   X                7 US
+CA PASO ROBLES      KPRB  PRB          35 40N  120 38W  245   X     T     A    6 US
+CA PETALUMA         KO69  O69          38 15N  122 36W   28   X                7 US
+CA PLACERVILLE      KPVF  PVF          38 43N  120 45W  789   X                8 US
+CA POINT MUGU NAS   KNTD  NTD   72391  34 07N  119 07W    4   X     T          6 US
+CA POINT REYES VOR  KPYE  PYE          38 05N  122 52W  447         V          8 US
+CA PORTERVILLE      KPTV  PTV          36 01N  119 04W  135   X           W    7 US
+CA PT. PIEDRAS BLAN K87Q  87Q   72390  35 40N  121 17W   27   X     Z     A    7 US
+CA RED BLUFF        KRBL  RBL   72591  40 09N  122 15W  104   X     U     A    6 US
+CA REDDING          KRDD  RDD   72592  40 31N  122 18W  155   X     T     A    3 US
+CA REDLANDS         KREI  REI          34 05N  117 09W  480   X           W    8 US
+CA RIO VISTA        KO88  O88          38 12N  121 42W    7   X           W    8 US
+CA RIVERSIDE        KRAL  RAL          33 57N  117 27W  252   X     S     A    6 US
+CA RIVERSIDE/MARCH  KRIV  RIV   72286  33 52N  117 16W  469   X     T          7 US
+CA RAMONA           KRNM  RNM          33 02N  116 55W  427   X           A    7 US
+CA SACRAMENTO       KSAC  SAC          38 30N  121 30W   11   X     U     A    2 US
+CA SACRAMENTO/WFO   KSTO  STO   72483  38 30N  121 30W   11                  F 8 US
+CA SACRAMENTO/RFC   KRSA  RSA          38 30N  121 30W   11                  R 8 US
+CA SACRAMENTO/88D   KDAX  DAX          38 30N  121 41W    9      X             8 US
+CA SACRAMENTO/METRO KSMF  SMF          38 42N  121 36W    6   X     T     A    6 US
+CA SALINAS          KSNS  SNS          36 40N  121 36W   30   X     U     A    6 US
+CA SAN BERNARDINO   KSBD  SBD          34 05N  117 15W  353   X                8 US
+CA SAN CARLOS AIRPO KSQL  SQL          37 31N  122 15W    1   X                7 US
