@@ -3,6 +3,7 @@
 # http://stackoverflow.com/questions/7243750/download-file-from-web-in-python-3
 # http://weather.noaa.gov/pub/data/observations/metar/
 
+
 #   CD = 2 letter state (province) abbreviation
 #   STATION = 16 character station long name
 #   ICAO = 4-character international id
@@ -40,7 +41,7 @@ cursor = conn.cursor()
 # Clear the screen so the junk is gone.
 os.system('cls' if os.name == 'nt' else 'clear')
 
-station_id = input('Please enter the ICAO station code: ')
+station_id = input('Please enter the ICAO or weather station code: ')
 station_id = station_id.upper() #fix the ICAO to all upper-case for the query
 
 ## Get station information from database
